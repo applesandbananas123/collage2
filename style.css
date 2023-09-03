@@ -1,0 +1,22 @@
+#abc
+{
+background-color:aqua;
+}
+
+#heading
+{
+    font-family:cursive;
+    font-style:italic;
+    font-weight:400;
+}
+
+#h4
+{
+    font-weight:bold;
+}
+
+#camera
+{
+    width: 500px;
+    border-color:blue;
+}
